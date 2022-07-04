@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://hasherezade.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ar-Seven&show_icons=true&line_height=33&count_private=true&theme=radical" alt="hasherezade's GitHub Stats" />
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ar-Seven&show_icons=true&line_height=33&count_private=true&theme=radical" a />
 </a>
 
-<a href="https://hasherezade.net">
+<a >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Seven&&hide=cmake&langs_count=4&line_height=35&theme=radical" />
 </a>
 
-<a href="https://hasherezade.net">
+<a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar-Seven&theme=radical" />
 </a>
 <br/>
