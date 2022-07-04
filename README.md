@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar-Seven&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://hasherezade.net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ar-Seven&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Seven)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://hasherezade.net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Seven&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+<a href="https://hasherezade.net">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar-Seven&theme=dark" />
+</a>
+<br/>
 
 
 
