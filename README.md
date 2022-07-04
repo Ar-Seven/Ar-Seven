@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://hasherezade.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ar-Seven&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ar-Seven&show_icons=true&line_height=33&count_private=true&theme=radical" alt="hasherezade's GitHub Stats" />
 </a>
 
 <a href="https://hasherezade.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Seven&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Seven&&hide=cmake&langs_count=4&line_height=35&theme=radical" />
 </a>
 
 <a href="https://hasherezade.net">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar-Seven&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar-Seven&theme=radical" />
 </a>
 <br/>
 
