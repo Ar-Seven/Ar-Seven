@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ar-Seven&show_icons=true&line_height=33&count_private=true&theme=radical" a />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arzeven&show_icons=true&line_height=33&count_private=true&theme=radical" a />
 </a>
 
 <a >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-Seven&&hide=cmake&langs_count=4&line_height=35&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzeven&&hide=cmake&langs_count=4&line_height=35&theme=radical" />
 </a>
 
 <a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar-Seven&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzeven&theme=radical" />
 </a>
 <br/>
 
