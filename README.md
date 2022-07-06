@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=ar-seven&show_icons=true&line_height=33&count_private=true&theme=radical" a />
 </div>
 <div id="header" align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-seven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=ar-seven&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-seven&layout=compact)" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-seven&theme=radical" />
 </div>
 
