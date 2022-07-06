@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
-  
   <img src="https://github-readme-stats.vercel.app/api?username=ar-seven&show_icons=true&line_height=33&count_private=true&theme=radical" a />
 </div>
 <div id="header" align="center">
