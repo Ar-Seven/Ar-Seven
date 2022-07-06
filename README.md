@@ -1,4 +1,4 @@
-### I AM A CSE UNDERGRAD AT AMRITA VISHWA VIDYAPEETHAM,AMRITAPURI AND ASPIRING SOFTWARE DEVELOPER.
+### 
 
 <!--
 **Ar-Seven/Ar-Seven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
