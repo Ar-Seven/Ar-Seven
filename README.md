@@ -1,5 +1,5 @@
 ### 
-
+![](https://komarev.com/ghpvc/?username=ar-seven)
 <!--
 **Ar-Seven/Ar-Seven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-seven&theme=algolia" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-seven&theme=algolia" />
 </div>
-
+![](https://raw.githubusercontent.com/ar-seven/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/ar-seven/github-stats-transparent/output/generated/languages.svg)
 
 
