@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-seven&theme=algolia&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-seven&theme=algolia" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=ar-seven&theme=algolia" />
 </div>
 
 
